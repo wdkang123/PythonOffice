@@ -1,0 +1,166 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 3 0 R ]
+>>
+endobj
+2 0 obj
+<<
+/Producer (PyPDF4)
+>>
+endobj
+3 0 obj
+<<
+/Type /Page
+/MediaBox [ 0 0 595 842 ]
+/Rotate 0
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.2
+>>
+/gRLs1 <<
+/ca 0.4
+>>
+>>
+/Font <<
+/helv 5 0 R
+/china-ss 6 0 R
+/F1 9 0 R
+>>
+/ProcSet [ /ImageI /ImageB /Text /ImageC /PDF ]
+>>
+/Parent 1 0 R
+/Contents 10 0 R
+/Annots [ ]
+>>
+endobj
+4 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type0
+/BaseFont /Song
+/Encoding /UniGB-UTF16-H
+/DescendantFonts [ 7 0 R ]
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/Subtype /CIDFontType0
+/BaseFont /Song
+/CIDSystemInfo <<
+/Registry (Adobe)
+/Ordering (GB1)
+/Supplement 5
+>>
+/FontDescriptor 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Type /FontDescriptor
+/FontName (Song)
+/FontBBox [ -200 -200 1200 1200 ]
+/Flags 6
+/ItalicAngle 0
+/Ascent 1000
+/Descent -200
+/StemV 80
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/Length 372
+>>
+stream
+q
+q
+BT
+1 0 0 1 50 792 Tm
+/helv 11 Tf
+[ (Hello\040PDF\041) ] TJ
+ET
+Q
+q
+BT
+1 0 0 1 50 772 Tm
+/china-ss 11 Tf
+[ (O\140Y\175) ] TJ
+ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+1 0 0 1 283.4646 56.69291 cm
+BT
+/F1 80 Tf
+96 TL
+ET
+0 1 0 RG
+0 1 0 rg
+0.70711 0.70711 -0.70711 0.70711 0 0 cm
+0.6 0 0 rg
+/gRLs0 gs
+BT
+1 0 0 1 85.03937 0 Tm
+(Python\041\041\041) Tj
+T*
+ET
+/gRLs1 gs
+Q
+
+endstream
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000074 00000 n 
+0000000114 00000 n 
+0000000400 00000 n 
+0000000449 00000 n 
+0000000546 00000 n 
+0000000663 00000 n 
+0000000826 00000 n 
+0000000981 00000 n 
+0000001088 00000 n 
+trailer
+<<
+/Size 11
+/Root 4 0 R
+/Info 2 0 R
+>>
+startxref
+1512
+%%EOF
